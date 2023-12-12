@@ -19,10 +19,14 @@
 
 - ESP32
 - SSD1306 OLED Display
-- X x 10K Resistor
+- 1 x 1K Resistor
+- 1x 47r Resistor
+- 1x 10r Resistor
 - X x 4pin push button (todo: get exact measurements)
-- 2 x IR LED
+- 2 x IR LED diodes
 - 1 x DHT20 Temperature/Humidity Sensor
+- 1 x TCA9548A I2C Multiplexer
+- 1 x Rotary Encoder + push button
 <!-- - 1 x Green LED -->
 <!-- - 1 X Yellow LED -->
 <!-- - 1 X Red LED  -->
